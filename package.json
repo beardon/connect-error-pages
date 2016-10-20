@@ -1,0 +1,23 @@
+{
+  "name": "connect-error-pages",
+  "description": "Easy to use, professional error pages to replace the plaintext error pages that come with connect",
+  "version": "0.0.1",
+  "keywords": [
+    "connect",
+    "error page"
+  ],
+  "homepage": "https://github.com/beardon/connect-error-pages",
+  "bugs": {
+    "url": "https://github.com/beardon/connect-error-pages/issues",
+    "email": "aaron.bean@beardon.com"
+  },
+  "author": {
+    "name": "Aaron Bean",
+    "email": "aaron.bean@beardon.com",
+    "url": "https://github.com/aaronbean"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "server-error-pages": "^0.0.4"
+  }
+}
